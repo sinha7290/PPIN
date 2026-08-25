@@ -1,5 +1,5 @@
 # PPIN
-PPIN generation from gene signatures
+Protein-protein interaction network (PPIN) generation from gene signatures
 
 Steps:
 
