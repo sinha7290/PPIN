@@ -15,4 +15,4 @@ get the cutoff edge_list with combined score using:  sed -n -e '1,(N-1)p' hppin_
 
 get the modified edge list using: awk '{print $1,'\t',$2}' hppin_cutoff.txt > hppin.txt
 
-get the sub-graph PPIN (edge_list.txt) and minimum spanning tree graph (MST.txt) based on the target protein list using: ppin.py 
+get the sub-graph PPIN (edge_list.txt) and minimum spanning tree graph (MST.txt) based on the target protein list using: ppin.py
